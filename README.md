@@ -29,3 +29,4 @@ If you are satisfied with the result, you can finally build the project for rele
 ```
 npm run build
 ```
+Or Deply to Netlify 
